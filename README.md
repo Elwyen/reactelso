@@ -27,3 +27,14 @@ react developer tools expansion
 clone egy uj mappaba
 npm install
 npm start
+
+
+
+function Komponens(props) {
+    return (
+        <>
+        
+        </>
+    )
+}
+export default Kompones
