@@ -22,3 +22,8 @@ ezeket irja le a package.json
 
 npm install
 react developer tools expansion
+
+
+clone egy uj mappaba
+npm install
+npm start
