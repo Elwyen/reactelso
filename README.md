@@ -33,8 +33,8 @@ npm start
 function Komponens(props) {
     return (
         <>
-        
+
         </>
     )
 }
-export default Kompones
+export default Komponens
